@@ -30,15 +30,15 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default"
-plugins:
-  - jekyll-feed
+#theme: minimal-mistakes-jekyll
+#minimal_mistakes_skin: "default"
+#plugins:
+#  - jekyll-feed
 
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:path/
+#collections:
+#  projects:
+#    output: true
+#    permalink: /:collection/:path/
 
 # defaults:
 #   # _pages
