@@ -1,10 +1,11 @@
 ---
 layout: collection
-title: "Projects"
+title: Projects
 collection: projects
 permalink: /projects/
-author_profile: false
-sort_by: sequence
 entries_layout: grid
 classes: wide
+header: 
+  overlay_image: /assets/images/bannertest1.jpeg
 ---
+
