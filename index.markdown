@@ -18,19 +18,27 @@ These projects will be done with the supervision of the instructors as indicated
 ## Project 1 
 ### Pavlos Protopapas 
 
-##Project 2
+## Project 2
 ### Pavlos Protopapas 
 
-##Project 3
+## Project 3
 ### Pavlos Protopapas 
 
-##Project 4 
+## Project 4 
+### Pavlos Protopapas 
 
 ## Project 5
+### Pavlos Protopapas 
 <br> <br>
 
 # How will this work 
-Students will work on any of these projects as teams. The advisor/instructor of each project will define the deliverables and how they will be grading the course. 
+Students will work on any of these projects as teams. The instructor of each project will define the deliverables and how they the grading will be done. 
+However there are some common themes amongst all the projects. 
+1. Open ended problems with no pre-defined solutions
+2. Emphasis on clear presentation and story telling 
+3. Good software engineering practices such as github flows
+4. Preservance of the project and ideas. 
+5. Time and scope management 
 
 ## How to Take this Course
 There are two tasks that you need to do prior to registration. Create a team and select a project. 
