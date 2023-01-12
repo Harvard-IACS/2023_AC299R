@@ -3,6 +3,7 @@ layout: splash
 permalink: /
 header: 
   overlay_image: /assets/images/bridge.jpg
+  text_color: black
 ---
 
 <style>
