@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header: 
-  overlay_image: /assets/images/bannertest1.jpeg
+  overlay_image: /assets/images/bridge.jpg
 ---
 
 <style>
