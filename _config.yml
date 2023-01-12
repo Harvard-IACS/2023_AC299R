@@ -33,22 +33,38 @@ github_username:  jekyll
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default"
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
+  - jekyll-include-cache
 
+include:
+  - _pages
+  - _projects
+  
 collections:
   projects:
     output: true
     permalink: /:collection/:path/
 
-  pages:
-    output: true
-    permalink: /:collection/:path/
 
 
 defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      classes: wide
+      share: false
+      related: false
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.3"
+  - scope:
+      path: ""
+      type: pages
     values:
       layout: single
       classes: wide
