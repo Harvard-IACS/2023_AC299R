@@ -18,8 +18,8 @@ These projects will be done with the supervision of the instructors as indicated
 ## AgAI: Building tech for smallholder farmers in Nigeria
 #### Pavlos Protopapas 
 
-## Project 2
-### Pavlos Protopapas 
+## Senecal Capital
+#### Pavlos Protopapas 
 
 ## Project 3
 ### Pavlos Protopapas 
