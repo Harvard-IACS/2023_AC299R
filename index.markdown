@@ -15,8 +15,8 @@ header:
 These projects will be done with the supervision of the instructors as indicated per project.
 <br/><br/>
 </div>
-## Project 1 
-### Pavlos Protopapas 
+## AgAI: Building tech for smallholder farmers in Nigeria
+#### Pavlos Protopapas 
 
 ## Project 2
 ### Pavlos Protopapas 
