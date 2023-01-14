@@ -22,13 +22,14 @@ AC299R (independent study) can be taken by students in the CSE program as an alt
 <div style="font-family:Karla; font-size:1.2rem; color:#707070;line-height:1.6;"> 
 Students will work on these projects in teams. The instructor of each project will define the deliverables and the grading criteria. However, all projects will have some common themes such as:
 
-</div>
-1. Open-ended problems with no pre-defined solutions
-2. Emphasis on clear presentation and storytelling
-3. Adoption of good software engineering practices 
-4. Preservation of the project and ideas
-5. Time and scope management
 
+<ul > 
+<li >Open-ended problems with no pre-defined solutions
+<li >Emphasis on clear presentation and storytelling
+<li > Adoption of good software engineering practices 
+<li > Preservation of the project and ideas
+<li >Time and scope management
+</ul>
 
 ## How to take this course
 <div style="font-family:Karla; font-size:1.2rem; color:#707070;line-height:1.6;"> 
