@@ -14,9 +14,11 @@ header:
 
 <div style="font-family:Karla; font-size:1.2rem; color:#707070;line-height:1.6;"> 
 AC299R (independent study) can be taken by students in the CSE program as an alternative to the AC297R capstone requirement for Spring 2023. We have compiled a list of project topics in data science and computational science for you to choose from. These projects will be completed under the supervision of instructors as specified for each project."
-</div>
 
-# How will this work 
+</div>
+<br>
+
+## How will this work 
 <div style="font-family:Karla; font-size:1.2rem; color:#707070;line-height:1.6;"> 
 Students will work on these projects in teams. The instructor of each project will define the deliverables and the grading criteria. However, all projects will have some common themes such as:
 
