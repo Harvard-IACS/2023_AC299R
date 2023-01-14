@@ -25,14 +25,16 @@ Students will work on these projects in teams. The instructor of each project wi
 </div>
 1. Open-ended problems with no pre-defined solutions
 2. Emphasis on clear presentation and storytelling
-3. Adoption of good software engineering practices such as Github flows
+3. Adoption of good software engineering practices 
 4. Preservation of the project and ideas
 5. Time and scope management
-
 
 
 ## How to take this course
 <div style="font-family:Karla; font-size:1.2rem; color:#707070;line-height:1.6;"> 
 To take this course, you will need to complete two tasks before registration: creating a team and selecting a project.
 We have created a simple <a href="">Google Sheet</a> where you can view the interests of other students and connect with them to form a team.
+
+<br> <br> 
+Register for AC299R and let Daniel and Pavlos know that yoour taking one of these projects as an alternative to the capstone. 
 </div>
