@@ -31,6 +31,7 @@ Students will work on these projects in teams. The instructor of each project wi
 <li >Time and scope management</li>
 
 </ul>
+</div>
 
 ## How to take this course
 <div style="font-family:Karla; font-size:1.2rem; color:#707070;line-height:1.6;"> 
