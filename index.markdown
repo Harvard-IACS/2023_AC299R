@@ -36,5 +36,5 @@ To take this course, you will need to complete two tasks before registration: cr
 We have created a simple <a href="">Google Sheet</a> where you can view the interests of other students and connect with them to form a team.
 
 <br> <br> 
-Register for AC299R and let Daniel and Pavlos know that yoour taking one of these projects as an alternative to the capstone. 
+Finally, to take this project as an alternative to the capstone requirement, you will need to register for AC299R and inform Daniel and Pavlos that you will be taking one of these projects. 
 </div>
