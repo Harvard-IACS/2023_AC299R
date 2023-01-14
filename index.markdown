@@ -24,11 +24,12 @@ Students will work on these projects in teams. The instructor of each project wi
 
 
 <ul > 
-<li >Open-ended problems with no pre-defined solutions
-<li >Emphasis on clear presentation and storytelling
-<li > Adoption of good software engineering practices 
-<li > Preservation of the project and ideas
-<li >Time and scope management
+<li >Open-ended problems with no pre-defined solutions</li>
+<li >Emphasis on clear presentation and storytelling</li>
+<li > Adoption of good software engineering practices </li>
+<li > Preservation of the project and ideas</li>
+<li >Time and scope management</li>
+
 </ul>
 
 ## How to take this course
