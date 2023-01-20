@@ -36,7 +36,7 @@ Students will work on these projects in teams. The instructor of each project wi
 ## How to take this course
 <div style="font-family:Karla; font-size:1.2rem; color:#707070;line-height:1.6;"> 
 To take this course, you will need to complete two tasks before registration: creating a team and selecting a project.
-We have created a simple <a href="">Google Sheet</a> where you can view the interests of other students and connect with them to form a team.
+We have created a simple <a href="https://docs.google.com/spreadsheets/d/1VMw0Wou4Eb2wP_7udE0FyY6C28h9WQaqF1Ke01AwG74/edit?usp=sharing">Google Sheet</a> where you can view the interests of other students and connect with them to form a team.
 
 <br> <br> 
 Finally, to take this project as an alternative to the capstone requirement, you will need to register for AC299R and inform Daniel and Pavlos that you will be taking one of these projects. 
